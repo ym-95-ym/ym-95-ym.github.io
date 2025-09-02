@@ -1,4 +1,4 @@
-# [Shams Syria e.V. (ShamSy e.V.)]
+# Shams Syria e.V. (ShamSy e.V.)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
 
