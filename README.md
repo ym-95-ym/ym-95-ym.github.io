@@ -2,9 +2,12 @@
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+***Syrien ist ein Land voller Narben*** – 14 Jahre Krieg, 55 Jahre Diktatur, Hunderttausende Tote, Millionen Vertriebene. Stromausfälle, zerstörte Schulen und überlastete Krankenhäuser prägen den Alltag.
+Doch trotz all dieser Dunkelheit gibt es Hoffnung: Menschen, die geblieben sind. Menschen, die zurückkehren. Und Menschen, die Brücken schlagen.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+Wir sind diese Brücke.
+Shams Syria e.V. – die Sonne Syriens – steht für Wiederaufbau in eigener Hand.
+Wir sind Teil der syrischen Diaspora in Deutschland, eng verbunden mit unseren Partnern und Familien in Syrien. Gemeinsam schaffen wir Projekte, die Strom liefern, Bildung ermöglichen, Gesundheit sichern – transparent, unabhängig, nachhaltig.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
